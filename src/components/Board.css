@@ -1,0 +1,9 @@
+.board-row {
+    height: 20%;
+    width: 100%;
+}
+.board-row:after {
+    clear: both;
+    content: "";
+    display: table;
+}

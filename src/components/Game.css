@@ -1,0 +1,8 @@
+.game-baord {
+    border-style: dashed;
+    box-sizing: border-box;
+    width: 350px;
+    height: 350px;
+    transform-origin: 50% 50%;
+    transform: translate(300px, 100px) rotate(45deg);
+}
